@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
+  "Founder @ TryZone",
+  "President - Science Society SMIU",
+  "Alpha-MLSA",
+  "Technical Expert-GDSC",
+  "Notion Champ @ Notion-SMIU",
+
 ];
 
 /**
